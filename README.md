@@ -5,7 +5,7 @@ The Chat with Multiple Pdf App is a Python application that allows you to chat w
 ## How It Works
 The application employs a standard **Retrieval-Augmented Generation (RAG)** pipeline to fetch and synthesize answers
 
-![](screenshot.png)
+![](ss.png)
 
 The application follows these steps to provide responses to your questions:
 
